@@ -2,7 +2,7 @@
 -- Store the loadstring (line 6, line 5 if the original gets taken down) in your autoexec folder into a text/lua file to receive automatic updates [remove the "--"" part when you paste it into the text file]
 -- Credits: AnthonyIsntHere
 --This no update version is only for if the original gets taken down.
--- loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperBlueEyeBall/RobloxScripts/main/DisableChatLoggerNoUpdates", true))()
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperBlueEyeBall/RobloxScripts/main/DisableChatLoggerNoUpdates.lua", true))()
 -- loadstring(game:HttpGet("https://raw.githubusercontent.com/AnthonyIsntHere/anthonysrepository/main/scripts/AntiChatLogger.lua", true))()
  
 if not game:IsLoaded() then
