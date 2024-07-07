@@ -31,8 +31,8 @@ Put the webhook you want below and optional, the person you will tag   ]]
 local webhookurl = ""
 local tagperson = "<@USERIDHERE>"
 -- it will tell you when you've disconnected, your time is losing, or the admin changes
-
-loadstring(game:HttpGet("https://pastebin.com/raw/rH4hbmK9"))()
+--anti afk script below which is the loadstring
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperBlueEyeBall/RobloxScripts/main/AntiAfk.lua"))()
 if getgenv().thechosenonescriptdisable then
     getgenv().thechosenonescriptdisable()
 end
