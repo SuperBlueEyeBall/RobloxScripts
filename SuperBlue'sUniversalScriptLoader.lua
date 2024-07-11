@@ -16,7 +16,7 @@ elseif placeId == 17461365630 then -- Admin Rng
     loadstring(game:HttpGet(''))()
     
 elseif placeId == 16389395869 then -- A dusty trip
-    loadstring(game:HttpGet(''))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/SuperBlueEyeBall/RobloxScripts/main/AdustyTrip-EruditeHubV3.lua'))()
 
 elseif placeId == 13529953420 then -- Money Race
     loadstring(game:HttpGet('https://raw.githubusercontent.com/FlmesCoding/SwirlHub/main/Money%20Race.lua'))()
