@@ -12,10 +12,10 @@ elseif placeId == 142823291 then --murder mystery 2
 elseif placeId == 621129760 then -- Kat
     loadstring(game:HttpGet('https://raw.githubusercontent.com/FlmesCoding/SwirlHub/main/KAT.lua'))()
 
-elseif placeId == 9359839118 then -- Zach Station
+elseif placeId == 17461365630 then -- Admin Rng
     loadstring(game:HttpGet(''))()
     
-elseif placeId == 13772394625 then -- Blade Ball
+elseif placeId == 16389395869 then -- A dusty trip
     loadstring(game:HttpGet(''))()
 
 elseif placeId == 13529953420 then -- Money Race
