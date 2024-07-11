@@ -1,3 +1,8 @@
+--[[
+The loadstring script is below this line (line 4)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperBlueEyeBall/RobloxScripts/main/SuperBlue'sUniversalScriptLoader.lua"))()
+--]]
+
 local placeId = game.PlaceId
 
 local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperBlueEyeBall/RobloxScripts/main/AkiliNotifSender.lua"))();
