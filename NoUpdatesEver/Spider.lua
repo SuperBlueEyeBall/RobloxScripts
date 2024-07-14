@@ -1,8 +1,3 @@
---Ported to loadstring by SuperBlueEyeBall--
-
-
-
-
 setsimulationradius(math.huge, math.huge)
 
 local mouse = game.Players.LocalPlayer:GetMouse()
