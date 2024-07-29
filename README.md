@@ -7,3 +7,6 @@ loadstring(game:HttpGet(""))()
 
 Genesis FE loadstrings:
 https://github.com/GenesisFE/Genesis/tree/main/Loadstrings
+
+Tips n tricks:
+Use bypassers to bypass pesky link redirectors that make you watch ads such as sub2get, lootdest, and linktiverse. Ill give you great bypassers below if you dont have any already:
