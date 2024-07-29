@@ -12,7 +12,7 @@ Tips n tricks:
 Use bypassers to bypass pesky link redirectors that make you watch ads such as sub2get, lootdest, and linktiverse. Ill give you great bypassers below if you dont have any already.
 By the way, this is all possible through userscript managers on browser in the form of extensions. Tampermonkey is a popular userscript manager, as well as violentmonkey which is similar and works better for kiwi browser if you're on mobile. I will also provide you the link for the userscript managers too below:
 Userscript managers:
-Tampermonkey: 
+Tampermonkey: https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 Violentmonkey:
 
 link redirector bypassers:
