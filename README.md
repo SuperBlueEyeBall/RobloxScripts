@@ -27,55 +27,39 @@ By the way, this is all possible through userscript managers on browser in the f
 ## Userscript managers:
 Tampermonkey: 
 ```
-
 https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
-
 ```
 Violentmonkey:
 ```
-
 https://chromewebstore.google.com/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag
-
 ```
 ## Link redirect bypassers:
 Linktiverse bypass:
 
 ```
-
 https://bypass.city/how-to-install-userscript
-
 ```
 lootdest and lootdest mirror bypass:
 ```
 
-
-
 ```
 Universal bypass(doesnt work sometimes):
 ```
-
-
 
 ```
 ## Recommended execut0rs:
 
 | Codex | 100% / good |
 ```
-
 https://www.codex.lol
-
 ```
 | Arceus X | 100% / good |
 ```
-
 https://www.spdmteam.com
-
 ```
 | Delta | 100% but some scripts still don't work |
 ```
-
 https://www.deltaexploits.net
-
 ```
 
 ## unc tester:
@@ -89,7 +73,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/unified-naming-conven
 ## Extra Loadstrings:
 Genesis FE loadstrings:
 ```
-
 https://github.com/GenesisFE/Genesis/tree/main/Loadstrings
-
 ```
