@@ -45,7 +45,7 @@ https://update.greasyfork.org/scripts/487969/LootDestLoot-Link%20%28Lootlabs%29%
 ```
 Universal bypass(doesnt work sometimes):
 ```
-
+https://chromewebstore.google.com/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe
 ```
 ## Recommended execut0rs:
 
