@@ -41,7 +41,7 @@ https://bypass.city/how-to-install-userscript
 ```
 lootdest and lootdest mirror bypass:
 ```
-
+https://update.greasyfork.org/scripts/487969/LootDestLoot-Link%20%28Lootlabs%29%20Bypass.user.js
 ```
 Universal bypass(doesnt work sometimes):
 ```
