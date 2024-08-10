@@ -61,6 +61,10 @@ https://www.spdmteam.com
 ```
 https://www.deltaexploits.net
 ```
+| Fluxus | 100% but the site is down and might be discontinued |
+```
+https://www.fluxteam.net
+```
 
 ## unc tester:
 
