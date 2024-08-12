@@ -1,6 +1,5 @@
 --[[
 
-
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperBlueEyeBall/RobloxScripts/main/Projects/FakeLag.lua"))()
 
 --]]
