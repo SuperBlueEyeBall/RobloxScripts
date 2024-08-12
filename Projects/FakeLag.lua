@@ -1,3 +1,10 @@
+--[[
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperBlueEyeBall/RobloxScripts/main/Projects/FakeLag.lua"))()
+
+--]]
+
 -- // REDISTRIBUTING IS STRICTLY FORBIDDEN. MAY RESULT IN LEGAL ACTION // -- 
 
 -- // INSTANCES: 103 | SCRIPTS: 15 | MODULES: 0 \\ --
