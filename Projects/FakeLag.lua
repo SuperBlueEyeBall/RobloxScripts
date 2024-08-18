@@ -11,7 +11,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperBlueEyeBall/Robl
 local UI = {}
 
 -- // StarterGui.Freecam \\ --
-UI["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"))
+UI["1"] = Instance.new("ScreenGui", game:GetService("CoreGui"))
 UI["1"]["Name"] = [[Freecam]]
 UI["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling
 
