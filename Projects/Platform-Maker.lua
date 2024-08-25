@@ -2,9 +2,9 @@
 I made this because whenever I use the float command in infinite yield (DONT JUDGE ME ITS A GREAT LOCAL ADMIN SCRIPT) it makes me float but whenver I jump
 I stay at the point I was at when I jumped and I want to make a more realistic fake platform script so here it is!
 --]]                                                                                                                                                         --[
-------------------------------------------------------------------------------------------------------------------------------------
-As I said below, redistributing is stictly FORBIDDEN. If you decide to redistribute this code anyways, it may result in legal action.
-------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
+-- As I said below, redistributing is stictly FORBIDDEN. If you decide to redistribute this code anyways, it may result in legal action. --
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 
 -- // REDISTRIBUTING IS STRICTLY FORBIDDEN. MAY RESULT IN LEGAL ACTION \\ -- 
@@ -21,7 +21,7 @@ task.wait(2)
 local UI = {}
 
 -- // StarterGui.Platform \\ --
-UI["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"))
+UI["1"] = Instance.new("ScreenGui", game:GetService("CoreGui"))
 UI["1"]["Enabled"] = true
 UI["1"]["Name"] = [[Platform]]
 UI["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling
