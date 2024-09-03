@@ -46,7 +46,7 @@ Rekonise bypasser (100% also same as universal bypass):
 ```
 https://chromewebstore.google.com/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe
 ```
-Universal bypass(doesnt work sometimes but 100% good for rekonise / rekonize I forgot DONT BLAME ME):
+Universal bypass(doesnt work sometimes but 100% good for rekonise / rekonize I forgor which way to spell it DONT BLAME ME):
 ```
 https://chromewebstore.google.com/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe
 ```
