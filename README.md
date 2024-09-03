@@ -9,15 +9,14 @@ If you want, you can file a pull request and I can add some of your scripts here
 ```lua
 
 loadstring(game:HttpGet(""))()
-
 ```
 
 ## Game Loader:
-
+I'm fixing my script loader FORGIB ME FOR THE REALLY SIMPLE BUG I WAS A BEGINNER SCRIPTER AT THE TIME BUT NOW THE STUDENT HAS BECOME THE MASTER
 ```lua
 
-loadstring(game:HttpGet(""))():load(game.PlaceId)
-
+loadstring(game:HttpGet(""))()
+-- I'm fixing my script loader FORGIB ME FOR THE REALLY SIMPLE BUG I WAS A BEGINNER SCRIPTER AT THE TIME BUT NOW THE STUDENT HAS BECOME THE MASTER
 ```
 
 ## Tips n tricks:
@@ -43,7 +42,11 @@ lootdest and lootdest mirror bypass:
 ```
 https://update.greasyfork.org/scripts/487969/LootDestLoot-Link%20%28Lootlabs%29%20Bypass.user.js
 ```
-Universal bypass(doesnt work sometimes):
+Rekonise bypasser (100% also same as universal bypass):
+```
+https://chromewebstore.google.com/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe
+```
+Universal bypass(doesnt work sometimes but 100% good for rekonise / rekonize I forgot DONT BLAME ME):
 ```
 https://chromewebstore.google.com/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe
 ```
@@ -71,7 +74,6 @@ https://www.fluxteam.net
 ```lua
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/unified-naming-convention/NamingStandard/main/UNCCheckEnv.lua"))()
-
 ```
 ## Extra:
 ### Extra Loadstrings:
