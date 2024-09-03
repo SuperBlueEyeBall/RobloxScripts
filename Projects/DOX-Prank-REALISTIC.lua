@@ -1,5 +1,13 @@
 -- // REDISTRIBUTING IS STRICTLY FORBIDDEN. MAY RESULT IN LEGAL ACTION \\ --
 
+--[[
+-- // Loadstring below \\ --
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperBlueEyeBall/RobloxScripts/main/Projects/DOX-Prank-REALISTIC.lua"))()
+
+-- // Loadstring above \\ --
+--]]
+
 -- // This is a SUPER realistic fake doxxer. Try it out, trust me its awesome!! I made it myself btw and definitly didnt use the UI from simplebypass as a template because it looks awesome and I dont give a poopy if anyone cares \\ --
 --// Also try not to use the chat for atleast 15 seconds before using the doxx mechanic so it doesnt say "please wait before sending another message" in chat. \\ --
 
