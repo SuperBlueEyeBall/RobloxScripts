@@ -9,7 +9,7 @@ local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Su
 local Notify = AkaliNotif.Notify;
 
 if placeId == 8908228901 then --sharkbite 2
-loadstring(game:HttpGet('https://raw.githubusercontent.com/FlmesCoding/SwirlHub/main/Sharkbite.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/FlmesCoding/SwirlHub/main/Sharkbite.lua'))()
 
 elseif placeId == 142823291 then --murder mystery 2
     loadstring(game:HttpGet('https://raw.githubusercontent.com/FlmesCoding/SwirlHub/main/Protected_3969409895346508.lua'))()
