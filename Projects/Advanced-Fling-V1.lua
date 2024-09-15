@@ -1,10 +1,9 @@
-
 -- // REDISTRIBUTING IS STRICTLY FORBIDDEN. MAY RESULT IN LEGAL ACTION \\ --
 
 --[[
 loadstring below
 
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SuperBlueEyeBall/RobloxScripts/main/Projects/Advanced-Fling-V1.lua"))()
 
 loadstring above
 --]]
